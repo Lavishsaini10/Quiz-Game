@@ -1,0 +1,33 @@
+Which operator has highest precedence ?
+[A] () [B] * [C] = [D] ++
+A
+Which operator can not be overloaded ?
+[A] + [B] - [C] * [D] ::
+D
+What is size of int data type in cpp ?
+[A] 2 Bytes [B] 4 Bytes [C] 1 Bytes [D] Depends on Compiler
+D
+How many Access specifier are there in C++ ?
+[A] 1 [B] 2 [C] 3 [D] 4
+C
+Can this pointer point to another class ?
+[A] YES [B] NO
+B
+Can we overload Constructor ?
+[A] YES [B] NO
+A
+Computer Moniter is also known as :
+[A] DVU [B] UVD [C] VDU [D] CCTV
+C
+Eight Bits make up a:-
+[A] Byte [B] Kilobyte [C] Megabyte [D] None
+A
+Which one of these also known as read/write memory ?
+[A] ROM [B] RAM [C] DVD [D] NONE
+B
+The printed output from a computer is called :
+[A] Copy [B] Soft Copy [C] Hard Copy[D] Paper
+C
+What is the name of this laptop ?
+[A] hp [B] dell [C] asus [D] sony
+C
